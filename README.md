@@ -19,7 +19,5 @@ Skills: HTML / CSS / SCSS / JAVASCIPT / JQUERY / REACT JS / PHP / OOP / WORDPRES
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibnote)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=habibnote)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=habibnote)](https://github.com/ryo-ma/github-profile-trophy)
 
