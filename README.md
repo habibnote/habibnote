@@ -16,8 +16,8 @@ Skills: HTML / CSS / SCSS / JAVASCIPT / JQUERY / REACT JS / PHP / OOP / WORDPRES
 <h3 align="left">Follow Me:</h3>
 
 <p>
-<a href="https://linkedin.com/in/sanzida-tasnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanzida-tasnim" height="30" width="40" /></a>
-<a href="https://fb.com/sanzida.tasnim007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanzida.tasnim007" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/habib333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanzida-tasnim" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.Habib333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanzida.tasnim007" height="30" width="40" /></a>
 <a href="https://instagram.com/sanzida.tasnim0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanzida.tasnim0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanzidatasnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanzidatasnim" height="30" width="40" /></a>
 </p>
